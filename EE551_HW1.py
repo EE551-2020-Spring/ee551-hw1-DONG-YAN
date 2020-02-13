@@ -53,7 +53,7 @@ def lists():
     lst = []
 
     for i in range(len(c)):
-        lst.append(m[i][-1])
+        lst.append(c[i][-1])
     
     return lst
     last_column(C)
